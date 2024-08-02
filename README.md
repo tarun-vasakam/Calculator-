@@ -1,2 +1,2 @@
-# Calculator-
-Html and CSS structure for Calculator
+# Calculator
+Calculator layout using HTML and CSS
